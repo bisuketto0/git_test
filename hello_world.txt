@@ -1,6 +1,3 @@
 sup people of the world, this is dani!
-<<<<<<< HEAD
 getting started on my programming adventure, hehe
-=======
 getting started on my programming adventure, hehe
->>>>>>> e22be423d5d2217d1634ef5db34773bdfd133bb3
